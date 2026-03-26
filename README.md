@@ -12,7 +12,7 @@ Projeto acadêmico simples desenvolvido em Python para o curso de Análise e Des
 
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 2. Faça o clone deste repositório ou baixe o arquivo `loja.py`.
-3. Abra o terminal, navegue até a pasta onde o arquivo está salvo e execute o comando abaixo:
+3. Abra o terminal na pasta onde o arquivo foi salvo e digite o comando:
 
 ```bash
 python loja.py
